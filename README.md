@@ -57,7 +57,7 @@ python tools/train_net.py   --num-gpus 2   --config-file projects/midetr/configs
 
 ### Evaluation
 
-You can evaluate our pretrained models with the following commands.
+You can evaluate pretrained models with the following commands.
 
 commands for pku_davis_sod dataset:
 ```sh
