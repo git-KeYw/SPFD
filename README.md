@@ -20,7 +20,7 @@ Our paper is available on the CVF Open Access:
 
 [**Beyond Duality: A Hybrid Framework of Leveraging Shared and Private Features for RGB-Event Object Detection**](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_Beyond_Duality_A_Hybrid_Framework_of_Leveraging_Shared_and_Private_CVPR_2026_paper.html)
 
-This repository provides the official implementation of our CVPR 2026 paper.
+This repository provides the official implementation of this paper.
 
 ---
 
@@ -143,8 +143,7 @@ This project is built upon the excellent open-source projects:
 
 - [detrex](https://github.com/IDEA-Research/detrex)
 - [Detectron2](https://github.com/facebookresearch/detectron2)
-- [DINO](https://github.com/IDEA-Research/DINO)
-
+  
 We sincerely thank the authors for their great work.
 
 ---
