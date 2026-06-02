@@ -127,11 +127,13 @@ python tools/test_net.py \
 If you find this work useful for your research, please consider citing our paper:
 
 ```bibtex
-@inproceedings{wang2026beyond,
-  title={Beyond Duality: A Hybrid Framework of Leveraging Shared and Private Features for RGB-Event Object Detection},
-  author={Wang, Keyao and Liu, Shuai and Shi, Hengda and Shi, Lukui and Chen, Haiyong},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  year={2026}
+@InProceedings{Wang_2026_CVPR,
+    author    = {Wang, Keyao and Liu, Shuai and Shi, Hengda and Shi, Lukui and Chen, Haiyong},
+    title     = {Beyond Duality: A Hybrid Framework of Leveraging Shared and Private Features for RGB-Event Object Detection},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2026},
+    pages     = {4415-4424}
 }
 ```
 
